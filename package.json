@@ -1,0 +1,12 @@
+{
+  "name": "demo-docker-compose",
+  "version": "1.0.0",
+  "description": "Express API with health and hello endpoints, Dockerized with Compose and load balancing.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
